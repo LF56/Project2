@@ -24,7 +24,7 @@
 
 ## Deployed Page
 
-[View SafeSpot Here!](https://safespotblog.herokuapp.com/dashboard/)
+[View SafeSpot Here!](https://happysafespot.herokuapp.com/)
 
 ## Usage
 
